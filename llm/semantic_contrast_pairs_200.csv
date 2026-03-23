@@ -1,0 +1,201 @@
+index,input 1,input 2
+1,explain difference between state and action.,explain difference between state and nation.
+2,explain the difference between charge and voltage.,explain the difference between charge and pay.
+3,Describe the role of state in political science.,Describe the role of state in control theory.
+4,"In political science, what does the term state refer to?","In control theory, what does the term state refer to?"
+5,Explain what charge means in electromagnetism.,Explain what charge means in criminal law.
+6,Explain how the word charge is used in electromagnetism.,Explain how the word charge is used in criminal law.
+7,Describe the role of charge in electromagnetism.,Describe the role of charge in criminal law.
+8,"In electromagnetism, what does the term charge refer to?","In criminal law, what does the term charge refer to?"
+9,Explain what field means in physics.,Explain what field means in agriculture.
+10,Explain how the word field is used in physics.,Explain how the word field is used in agriculture.
+11,Describe the role of field in physics.,Describe the role of field in agriculture.
+12,"In physics, what does the term field refer to?","In agriculture, what does the term field refer to?"
+13,Explain what field means in mathematics.,Explain what field means in sports.
+14,Explain how the word field is used in mathematics.,Explain how the word field is used in sports.
+15,Describe the role of field in mathematics.,Describe the role of field in sports.
+16,"In mathematics, what does the term field refer to?","In sports, what does the term field refer to?"
+17,Explain what current means in electric circuits.,Explain what current means in oceanography.
+18,Explain how the word current is used in electric circuits.,Explain how the word current is used in oceanography.
+19,Describe the role of current in electric circuits.,Describe the role of current in oceanography.
+20,"In electric circuits, what does the term current refer to?","In oceanography, what does the term current refer to?"
+21,Explain what current means in news media.,Explain what current means in history.
+22,Explain how the word current is used in news media.,Explain how the word current is used in history.
+23,Describe the role of current in news media.,Describe the role of current in history.
+24,"In news media, what does the term current refer to?","In history, what does the term current refer to?"
+25,Explain what network means in social science.,Explain what network means in computer networking.
+26,Explain how the word network is used in social science.,Explain how the word network is used in computer networking.
+27,Describe the role of network in social science.,Describe the role of network in computer networking.
+28,"In social science, what does the term network refer to?","In computer networking, what does the term network refer to?"
+29,Explain what network means in social science.,Explain what network means in power systems.
+30,Explain how the word network is used in social science.,Explain how the word network is used in power systems.
+31,Describe the role of network in social science.,Describe the role of network in power systems.
+32,"In social science, what does the term network refer to?","In power systems, what does the term network refer to?"
+33,Explain what load means in web servers.,Explain what load means in power systems.
+34,Explain how the word load is used in web servers.,Explain how the word load is used in power systems.
+35,Describe the role of load in web servers.,Describe the role of load in power systems.
+36,"In web servers, what does the term load refer to?","In power systems, what does the term load refer to?"
+37,Explain what load means in mechanical engineering.,Explain what load means in psychology.
+38,Explain how the word load is used in mechanical engineering.,Explain how the word load is used in psychology.
+39,Describe the role of load in mechanical engineering.,Describe the role of load in psychology.
+40,"In mechanical engineering, what does the term load refer to?","In psychology, what does the term load refer to?"
+41,Explain what power means in political science.,Explain what power means in electrical engineering.
+42,Explain how the word power is used in political science.,Explain how the word power is used in electrical engineering.
+43,Describe the role of power in political science.,Describe the role of power in electrical engineering.
+44,"In political science, what does the term power refer to?","In electrical engineering, what does the term power refer to?"
+45,Explain what power means in statistics.,Explain what power means in operating systems.
+46,Explain how the word power is used in statistics.,Explain how the word power is used in operating systems.
+47,Describe the role of power in statistics.,Describe the role of power in operating systems.
+48,"In statistics, what does the term power refer to?","In operating systems, what does the term power refer to?"
+49,Explain what grid means in urban planning.,Explain what grid means in power systems.
+50,Explain how the word grid is used in urban planning.,Explain how the word grid is used in power systems.
+51,Describe the role of grid in urban planning.,Describe the role of grid in power systems.
+52,"In urban planning, what does the term grid refer to?","In power systems, what does the term grid refer to?"
+53,Explain what grid means in graphic design.,Explain what grid means in numerical analysis.
+54,Explain how the word grid is used in graphic design.,Explain how the word grid is used in numerical analysis.
+55,Describe the role of grid in graphic design.,Describe the role of grid in numerical analysis.
+56,"In graphic design, what does the term grid refer to?","In numerical analysis, what does the term grid refer to?"
+57,Explain what line means in geometry.,Explain what line means in transmission systems.
+58,Explain how the word line is used in geometry.,Explain how the word line is used in transmission systems.
+59,Describe the role of line in geometry.,Describe the role of line in transmission systems.
+60,"In geometry, what does the term line refer to?","In transmission systems, what does the term line refer to?"
+61,Explain what line means in poetry.,Explain what line means in computer graphics.
+62,Explain how the word line is used in poetry.,Explain how the word line is used in computer graphics.
+63,Describe the role of line in poetry.,Describe the role of line in computer graphics.
+64,"In poetry, what does the term line refer to?","In computer graphics, what does the term line refer to?"
+65,Explain what bus means in public transportation.,Explain what bus means in power systems.
+66,Explain how the word bus is used in public transportation.,Explain how the word bus is used in power systems.
+67,Describe the role of bus in public transportation.,Describe the role of bus in power systems.
+68,"In public transportation, what does the term bus refer to?","In power systems, what does the term bus refer to?"
+69,Explain what bus means in public transportation.,Explain what bus means in computer architecture.
+70,Explain how the word bus is used in public transportation.,Explain how the word bus is used in computer architecture.
+71,Describe the role of bus in public transportation.,Describe the role of bus in computer architecture.
+72,"In public transportation, what does the term bus refer to?","In computer architecture, what does the term bus refer to?"
+73,Explain what capacity means in transportation.,Explain what capacity means in information theory.
+74,Explain how the word capacity is used in transportation.,Explain how the word capacity is used in information theory.
+75,Describe the role of capacity in transportation.,Describe the role of capacity in information theory.
+76,"In transportation, what does the term capacity refer to?","In information theory, what does the term capacity refer to?"
+77,Explain what capacity means in operations management.,Explain what capacity means in statistics.
+78,Explain how the word capacity is used in operations management.,Explain how the word capacity is used in statistics.
+79,Describe the role of capacity in operations management.,Describe the role of capacity in statistics.
+80,"In operations management, what does the term capacity refer to?","In statistics, what does the term capacity refer to?"
+81,Explain what flow means in traffic engineering.,Explain what flow means in fluid dynamics.
+82,Explain how the word flow is used in traffic engineering.,Explain how the word flow is used in fluid dynamics.
+83,Describe the role of flow in traffic engineering.,Describe the role of flow in fluid dynamics.
+84,"In traffic engineering, what does the term flow refer to?","In fluid dynamics, what does the term flow refer to?"
+85,Explain what flow means in traffic engineering.,Explain what flow means in power systems.
+86,Explain how the word flow is used in traffic engineering.,Explain how the word flow is used in power systems.
+87,Describe the role of flow in traffic engineering.,Describe the role of flow in power systems.
+88,"In traffic engineering, what does the term flow refer to?","In power systems, what does the term flow refer to?"
+89,Explain what phase means in electrical engineering.,Explain what phase means in chemistry.
+90,Explain how the word phase is used in electrical engineering.,Explain how the word phase is used in chemistry.
+91,Describe the role of phase in electrical engineering.,Describe the role of phase in chemistry.
+92,"In electrical engineering, what does the term phase refer to?","In chemistry, what does the term phase refer to?"
+93,Explain what phase means in project management.,Explain what phase means in signal processing.
+94,Explain how the word phase is used in project management.,Explain how the word phase is used in signal processing.
+95,Describe the role of phase in project management.,Describe the role of phase in signal processing.
+96,"In project management, what does the term phase refer to?","In signal processing, what does the term phase refer to?"
+97,Explain what frequency means in music theory.,Explain what frequency means in power systems.
+98,Explain how the word frequency is used in music theory.,Explain how the word frequency is used in power systems.
+99,Describe the role of frequency in music theory.,Describe the role of frequency in power systems.
+100,"In music theory, what does the term frequency refer to?","In power systems, what does the term frequency refer to?"
+101,Explain what frequency means in epidemiology.,Explain what frequency means in signal processing.
+102,Explain how the word frequency is used in epidemiology.,Explain how the word frequency is used in signal processing.
+103,Describe the role of frequency in epidemiology.,Describe the role of frequency in signal processing.
+104,"In epidemiology, what does the term frequency refer to?","In signal processing, what does the term frequency refer to?"
+105,Explain what resonance means in music.,Explain what resonance means in mechanical engineering.
+106,Explain how the word resonance is used in music.,Explain how the word resonance is used in mechanical engineering.
+107,Describe the role of resonance in music.,Describe the role of resonance in mechanical engineering.
+108,"In music, what does the term resonance refer to?","In mechanical engineering, what does the term resonance refer to?"
+109,Explain what resonance means in psychology.,Explain what resonance means in physics.
+110,Explain how the word resonance is used in psychology.,Explain how the word resonance is used in physics.
+111,Describe the role of resonance in psychology.,Describe the role of resonance in physics.
+112,"In psychology, what does the term resonance refer to?","In physics, what does the term resonance refer to?"
+113,Explain what model means in fashion.,Explain what model means in machine learning.
+114,Explain how the word model is used in fashion.,Explain how the word model is used in machine learning.
+115,Describe the role of model in fashion.,Describe the role of model in machine learning.
+116,"In fashion, what does the term model refer to?","In machine learning, what does the term model refer to?"
+117,Explain what model means in econometrics.,Explain what model means in physics.
+118,Explain how the word model is used in econometrics.,Explain how the word model is used in physics.
+119,Describe the role of model in econometrics.,Describe the role of model in physics.
+120,"In econometrics, what does the term model refer to?","In physics, what does the term model refer to?"
+121,Explain what sample means in statistics.,Explain what sample means in audio processing.
+122,Explain how the word sample is used in statistics.,Explain how the word sample is used in audio processing.
+123,Describe the role of sample in statistics.,Describe the role of sample in audio processing.
+124,"In statistics, what does the term sample refer to?","In audio processing, what does the term sample refer to?"
+125,Explain what sample means in food science.,Explain what sample means in music production.
+126,Explain how the word sample is used in food science.,Explain how the word sample is used in music production.
+127,Describe the role of sample in food science.,Describe the role of sample in music production.
+128,"In food science, what does the term sample refer to?","In music production, what does the term sample refer to?"
+129,Explain what signal means in communication theory.,Explain what signal means in biochemistry.
+130,Explain how the word signal is used in communication theory.,Explain how the word signal is used in biochemistry.
+131,Describe the role of signal in communication theory.,Describe the role of signal in biochemistry.
+132,"In communication theory, what does the term signal refer to?","In biochemistry, what does the term signal refer to?"
+133,Explain what signal means in traffic control.,Explain what signal means in neuroscience.
+134,Explain how the word signal is used in traffic control.,Explain how the word signal is used in neuroscience.
+135,Describe the role of signal in traffic control.,Describe the role of signal in neuroscience.
+136,"In traffic control, what does the term signal refer to?","In neuroscience, what does the term signal refer to?"
+137,Explain what channel means in telecommunications.,Explain what channel means in biology.
+138,Explain how the word channel is used in telecommunications.,Explain how the word channel is used in biology.
+139,Describe the role of channel in telecommunications.,Describe the role of channel in biology.
+140,"In telecommunications, what does the term channel refer to?","In biology, what does the term channel refer to?"
+141,Explain what channel means in marketing.,Explain what channel means in neural networks.
+142,Explain how the word channel is used in marketing.,Explain how the word channel is used in neural networks.
+143,Describe the role of channel in marketing.,Describe the role of channel in neural networks.
+144,"In marketing, what does the term channel refer to?","In neural networks, what does the term channel refer to?"
+145,Explain what projection means in cinema.,Explain what projection means in linear algebra.
+146,Explain how the word projection is used in cinema.,Explain how the word projection is used in linear algebra.
+147,Describe the role of projection in cinema.,Describe the role of projection in linear algebra.
+148,"In cinema, what does the term projection refer to?","In linear algebra, what does the term projection refer to?"
+149,Explain what projection means in political science.,Explain what projection means in statistics.
+150,Explain how the word projection is used in political science.,Explain how the word projection is used in statistics.
+151,Describe the role of projection in political science.,Describe the role of projection in statistics.
+152,"In political science, what does the term projection refer to?","In statistics, what does the term projection refer to?"
+153,Explain what ring means in jewelry.,Explain what ring means in abstract algebra.
+154,Explain how the word ring is used in jewelry.,Explain how the word ring is used in abstract algebra.
+155,Describe the role of ring in jewelry.,Describe the role of ring in abstract algebra.
+156,"In jewelry, what does the term ring refer to?","In abstract algebra, what does the term ring refer to?"
+157,Explain what ring means in sports.,Explain what ring means in signal processing.
+158,Explain how the word ring is used in sports.,Explain how the word ring is used in signal processing.
+159,Describe the role of ring in sports.,Describe the role of ring in signal processing.
+160,"In sports, what does the term ring refer to?","In signal processing, what does the term ring refer to?"
+161,Explain what group means in social psychology.,Explain what group means in abstract algebra.
+162,Explain how the word group is used in social psychology.,Explain how the word group is used in abstract algebra.
+163,Describe the role of group in social psychology.,Describe the role of group in abstract algebra.
+164,"In social psychology, what does the term group refer to?","In abstract algebra, what does the term group refer to?"
+165,Explain what group means in sociology.,Explain what group means in representation theory.
+166,Explain how the word group is used in sociology.,Explain how the word group is used in representation theory.
+167,Describe the role of group in sociology.,Describe the role of group in representation theory.
+168,"In sociology, what does the term group refer to?","In representation theory, what does the term group refer to?"
+169,Explain what domain means in web technology.,Explain what domain means in mathematics.
+170,Explain how the word domain is used in web technology.,Explain how the word domain is used in mathematics.
+171,Describe the role of domain in web technology.,Describe the role of domain in mathematics.
+172,"In web technology, what does the term domain refer to?","In mathematics, what does the term domain refer to?"
+173,Explain what domain means in linguistics.,Explain what domain means in complex analysis.
+174,Explain how the word domain is used in linguistics.,Explain how the word domain is used in complex analysis.
+175,Describe the role of domain in linguistics.,Describe the role of domain in complex analysis.
+176,"In linguistics, what does the term domain refer to?","In complex analysis, what does the term domain refer to?"
+177,Explain what support means in social work.,Explain what support means in measure theory.
+178,Explain how the word support is used in social work.,Explain how the word support is used in measure theory.
+179,Describe the role of support in social work.,Describe the role of support in measure theory.
+180,"In social work, what does the term support refer to?","In measure theory, what does the term support refer to?"
+181,Explain what support means in customer service.,Explain what support means in statistics.
+182,Explain how the word support is used in customer service.,Explain how the word support is used in statistics.
+183,Describe the role of support in customer service.,Describe the role of support in statistics.
+184,"In customer service, what does the term support refer to?","In statistics, what does the term support refer to?"
+185,Explain what margin means in finance.,Explain what margin means in machine learning.
+186,Explain how the word margin is used in finance.,Explain how the word margin is used in machine learning.
+187,Describe the role of margin in finance.,Describe the role of margin in machine learning.
+188,"In finance, what does the term margin refer to?","In machine learning, what does the term margin refer to?"
+189,Explain what margin means in publishing.,Explain what margin means in statistics.
+190,Explain how the word margin is used in publishing.,Explain how the word margin is used in statistics.
+191,Describe the role of margin in publishing.,Describe the role of margin in statistics.
+192,"In publishing, what does the term margin refer to?","In statistics, what does the term margin refer to?"
+193,Explain what portfolio means in finance.,Explain what portfolio means in web design.
+194,Explain how the word portfolio is used in finance.,Explain how the word portfolio is used in web design.
+195,Describe the role of portfolio in finance.,Describe the role of portfolio in web design.
+196,"In finance, what does the term portfolio refer to?","In web design, what does the term portfolio refer to?"
+197,Explain what portfolio means in art.,Explain what portfolio means in optimization.
+198,Explain how the word portfolio is used in art.,Explain how the word portfolio is used in optimization.
+199,Describe the role of portfolio in art.,Describe the role of portfolio in optimization.
+200,"In art, what does the term portfolio refer to?","In optimization, what does the term portfolio refer to?"
