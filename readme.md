@@ -118,7 +118,7 @@ If you use this repository, please cite:
 @inproceedings{
 liu2026implicit,
 title={Expressive Power of Implicit Models: Rich Equilibria and Test-Time Scaling},
-author={Jialin Liu and Lisang Ding and Wotao Yin and Stanley Osher},
+author={Jialin Liu and Lisang Ding and Stanley Osher and Wotao Yin},
 booktitle={The Fourteenth International Conference on Learning Representations},
 year={2026},
 url={https://openreview.net/forum?id=Pwnf1vsucu}
