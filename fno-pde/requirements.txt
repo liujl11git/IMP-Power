@@ -1,0 +1,16 @@
+# Python: 3.11.x
+# The codebase calls `.cuda()` directly in multiple model and runner paths.
+# Use a CUDA-enabled PyTorch wheel; this setup targets the older cu118 build.
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch==2.5.1+cu118
+numpy
+scipy
+h5py
+hydra-core
+omegaconf
+matplotlib
+seaborn
+wandb
+termcolor
+torchdeq
